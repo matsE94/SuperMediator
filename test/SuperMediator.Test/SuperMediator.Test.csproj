@@ -22,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\src\SuperMediator\SuperMediator.csproj" />
+      <ProjectReference Include="..\..\src\SuperMediator\SuperMediator.csproj" />
     </ItemGroup>
 
 </Project>

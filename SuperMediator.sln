@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMediator", "src\SuperM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{7ECAF187-E624-4086-94DC-A085C3A52533}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMediator.Test", "SuperMediator.Test\SuperMediator.Test.csproj", "{0FFF357A-EBF5-448A-A456-46817A9CBCAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMediator.Test", "test\SuperMediator.Test\SuperMediator.Test.csproj", "{0FFF357A-EBF5-448A-A456-46817A9CBCAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
